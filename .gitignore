@@ -1,0 +1,14 @@
+# 機密情報
+.env
+credentials/
+
+# Node.js関連
+node_modules/
+
+# OS固有のファイル
+.DS_Store
+Thumbs.db
+
+# エディタ固有のファイル
+.vscode/
+.swp
